@@ -29,6 +29,7 @@ Package\
 1. Copy `AnimatedJacket.dll` into `Package\Mods`.
 2. Start the game. MelonLoader loads the mod together with your other mods.
 3. You do not need to edit `Assembly-CSharp.dll`.
+4. 1:1 Resolution is strongly suggested for the videos
 
 ## Add a video
 
